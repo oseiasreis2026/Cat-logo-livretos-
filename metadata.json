@@ -1,0 +1,6 @@
+{
+  "name": "Oséias Reis — Catálogo Editorial de Livros Cristãos",
+  "description": "Catálogo editorial dos livros e livretos cristãos de Oséias Reis. Obras para reflexão, despertamento espiritual e transformação através da Palavra de Deus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
